@@ -185,4 +185,4 @@ async def on_message(message):
         await message.channel.send("Hello, I am a Music Bot.")
 """
 
-client.run('ODAzOTAzMDAwNDk4MTQzMjQy.YBEjAw.Jz8CcPAc2bQPO2E-kURcJ9FfX9g')
+client.run('')
